@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Behruz",
+      "age": "19",
+      "surname": "Satimbayev"
+    },
+    {
+      "id": 2,
+      "name": "Navfal",
+      "age": "14",
+      "surname": "Fayziyev"
+    },
+    {
+      "name": "bekzod",
+      "surname": "Boxodirov",
+      "age": "14",
+      "id": 3
+    },
+    {
+      "name": "Kamron",
+      "surname": "Kamron",
+      "age": "13",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "img url": "",
+      "title": "Super Combo",
+      "cost": "45.000"
+    }
+  ]
+}
